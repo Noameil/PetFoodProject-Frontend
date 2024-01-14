@@ -44,3 +44,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+*************************************************************************************************************************************************************************
+
+This is the Frontend of the project.
+
+It applies all the features from the backend visually.
+When openning the application it comes to the Register page where you can create a user.
+After doing that you can login to browse the items in the store in the Home page.
+If the user is an Admin(Configured through the workbench on Roles), there is an Admin button on the Navbar that leads to a page where you can add and remover Items, Categories and SubCategories.
+
+In the HomePage, on every item there is an option to add to cart. After adding the desired items, you can go to the Cart bottom on the navbar to see all the items in the cart, the total amount of the items chosen and the total price.
